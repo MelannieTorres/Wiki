@@ -1,6 +1,6 @@
 
 # Proceso para levantamiento inicial de requerimientos
-Versión 1.0
+Versión 2.0
 
 
 []() | []()
@@ -26,3 +26,14 @@ No. de Fase | Fase | Actividades | Encargado
 ## Plan de implementación
 <li>Subir la documentación al portal oficial de información.(Repositorio de cada proyecto)</li>
 <li>Presentar el plan desarrollado a los miembros del departamento o a ciertos encargados, quienes posteriormente deberán asegurarse que todo el departamento esté al tanto del nuevo proceso.</li>
+
+## Bitácora
+No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
+---------------|--------|-------|----------|-----------------
+1.0 | Creación | Alejandro Salmón | | 
+2.0 | Actualizar Proceso | Alejandro Salmón | Mauricio Hernandez | 
+
+
+
+
+Última edición: @mhsiles marzo 21, 2018.

@@ -4,7 +4,7 @@
 ## Pan Q'Ayuda
 - Estatus de la iteración 1
 - Estatus de la iteración 2
-- Métricas del equipo
+- [Métricas del equipo](https://docs.google.com/document/d/1hrk-Ozjf4m_Q316c2hImrfvUFOFSSvrhx9P_vmzJTv4/edit?usp=sharing)
 ## Libélulas
 - [Estatus de la iteración 1](https://docs.google.com/spreadsheets/d/1cq85GxUR_6Kdl3-aUuQ0JdM7rZDlexoZ3Q49vf_-DVo/edit?usp=drivesdk)
 - [Estatus de la iteración 2](https://docs.google.com/spreadsheets/u/1/d/1yKRF1-2ZvgOv7J7lH26KyEQ1dxmtQoauc_gidgge7kg/edit?usp=drivesdk)
